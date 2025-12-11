@@ -1,6 +1,6 @@
 # Genero-Literario
 
-# Formulário para Conhecer os Gêneros Literários, descubra o seu!
+# Descobrindo Seu Gênero Literário!
 
-Este site apresenta um formulário que ajuda o leitor a entender diferentes gêneros literários como romance, suspense, fantasia, terror e drama. Aqui você poderá explorar as características de cada gênero e descobrir qual deles combina mais com seu estilo de leitura. O objetivo é facilitar a compreensão dos tipos de histórias e apoiar quem ainda está conhecendo o universo literário.
+O objetivo deste formulário é ajudar o leitor a descobrir seu estilo de leitura por meio de perguntas simples sobre gêneros como romance, suspense, fantasia, terror e drama. Ele permite que iniciantes entendam o que gostam, o que não gostam e quais elementos fazem um livro chamar sua atenção, facilitando a identificação do gênero que mais combina com cada pessoa.
 
